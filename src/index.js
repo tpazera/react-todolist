@@ -5,7 +5,7 @@ import "./styles.css";
 
 class ToDoInput extends React.Component {
   state = {
-    value: "12345",
+    value: "Item X",
     buttonText: "Add item"
   };
   render() {
